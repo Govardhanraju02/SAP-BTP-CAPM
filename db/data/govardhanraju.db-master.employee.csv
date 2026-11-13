@@ -1,0 +1,121 @@
+ID,nameFirst,nameMiddle,namelast,nameIntials,sex,language,phoneNumber,email,loginName,Currency_code,salaryAmount,accountNumber,bankId,bankName
+0b21555f-399b-4bbc-9e1d-667d7edc77df,David,Kumar,Okafor,DKO,M,F,7391975664,david.okafor@company-us.com,dokafor,AUD,69194.41,6559676921376351,HSBC5028,Deutsche Bank
+598a7be6-f956-4bdd-8889-c66eecd9f083,Wei,James,Murphy,WJM,M,D,6376572946,wei.murphy@company-in.com,wmurphy,AED,65067.40,7526992278528075,HSBC8295,HSBC
+cb8d8685-9e0b-46fc-b9ed-d5b1dfb08dca,Rahul,Lee,Ali,RLA,M,S,6832374507,rahul.ali@company-us.com,rali,CHF,87681.19,8067686672237163,SBIN4120,Deutsche Bank
+3df2110e-a42c-45b4-80d8-60967a552125,Claire,Kumar,Tran,CKT,F,E,9671998392,claire.tran@company-in.com,ctran,AUD,55401.61,3764592403383036,BOFA9200,HSBC
+85004fbd-21c2-4795-9be7-8080a7ddf87c,Lena,,Choi,LC,F,D,6509829460,lena.choi@company.com,lchoi,GBP,69352.68,9114203187478438,HDFC8279,HDFC Bank
+f76e185d-a0f2-4fe6-8ddd-4320d70ad03a,Peter,,Rossi,PR,M,S,7526798827,peter.rossi@company-in.com,prossi,JPY,83317.08,1708100522760659,BNPA2059,Citibank
+c1aa0b94-43c8-432d-b052-1f85bc01a062,Anna,,Mwangi,AM,F,F,9447730611,anna.mwangi@company-eu.com,amwangi,GBP,88026.03,0706896784188979,ICIC5646,HDFC Bank
+6e82a17a-8aae-445c-a981-a03e7dfc5b9a,Raj,,Brown,RB,M,D,7586551017,raj.brown@company-eu.com,rbrown,AED,76971.00,1867325859709899,SBIN2602,Deutsche Bank
+133052ac-11be-40f1-8b43-c13d9fe08f77,Fatima,James,Lefebvre,FJL,F,F,9478786909,fatima.lefebvre@company.com,flefebvre,JPY,62836.31,0038234762034749,BNPA8170,ICICI Bank
+623fa8a9-79f8-46ab-9af5-5f2d9966d43e,Thomas,,Novak,TN,M,S,7935775226,thomas.novak@company.com,tnovak,USD,68554.55,0715312142687808,BNPA7015,Deutsche Bank
+3ce28f86-5369-43c2-97b8-b3ae24b56cd5,Thomas,Jean,Yamamoto,TJY,M,S,7878018143,thomas.yamamoto@company.com,tyamamoto,SGD,81998.59,2062504934792248,HDFC9761,BNP Paribas
+9cffe134-644b-4734-bd05-e1664e0e4a0a,Michael,Anne,Iyer,MAI,M,D,9413272842,michael.iyer@company.com,miyer,SGD,63066.19,7761015331412326,DEUT2526,BNP Paribas
+0d4cbdc5-5205-4378-a537-f20c1d5f57ed,Marco,Kumar,Lefebvre,MKL,M,S,9888868012,marco.lefebvre@company-us.com,mlefebvre,INR,43214.77,2033780645331102,DEUT7253,State Bank of India
+7958514d-8518-4a41-806b-3e161bea4e51,Peter,Anne,Santos,PAS,M,E,9252760412,peter.santos@company.com,psantos,GBP,70186.02,4685206803054085,CHAS3135,HDFC Bank
+e51e6467-c97e-47aa-8721-6ae93e94e9c1,Nina,Marie,Park,NMP,F,D,6945818429,nina.park@company.com,npark,CHF,66666.59,4359179478828388,BOFA2686,HSBC
+1e35c5eb-225f-4900-95e2-65894e88e6ec,Thomas,Michael,Rossi,TMR,M,S,6905140635,thomas.rossi@company.com,trossi,CAD,93873.40,9574718340830267,DEUT8004,BNP Paribas
+6c23ea44-84e2-49d9-b62b-7296fbed1337,Marco,Dev,Berg,MDB,M,E,7503906165,marco.berg@company.com,mberg,USD,90763.21,6090315513538182,HSBC4186,Citibank
+ade06ccb-57dd-4fc7-b2ca-3d289c020789,Isabella,Anne,Iyer,IAI,F,S,6946907662,isabella.iyer@company.com,iiyer,CAD,92543.88,3176716114718230,ICIC6123,Bank of America
+6bb3e34b-f773-45a4-88b3-6b3134385872,Nikhil,,Haddad,NH,M,J,8448314097,nikhil.haddad@company-in.com,nhaddad,CHF,94510.74,5031775113942436,HSBC1504,Bank of America
+6288a582-bb55-4da0-b601-fbb1ebe63c39,Priya,Kumar,Lopez,PKL,F,S,6386251719,priya.lopez@company-eu.com,plopez,INR,84103.37,3764414911390292,HDFC6765,ICICI Bank
+4023f283-b880-45e1-ab18-2073f863ad1a,Aisha,Michael,Martinez,AMM,F,J,6427057498,aisha.martinez@company-eu.com,amartinez,GBP,73475.78,0768211749952139,DEUT1571,Bank of America
+b7067ce1-193f-4d64-89da-4fd1d50e3c57,Raj,Anne,Wilson,RAW,M,F,9501992827,raj.wilson@company-us.com,rwilson,USD,82257.94,0023179321210093,HDFC6667,Bank of America
+a82eb031-5497-4df6-955f-97f5e02a2551,Nikhil,,Suzuki,NS,M,S,6861987877,nikhil.suzuki@company-eu.com,nsuzuki,AUD,78268.15,8695861548799024,HSBC7611,BNP Paribas
+58ee10a2-a7cb-474b-a10d-1978337968c7,Felix,Rose,Haddad,FRH,M,S,9364338975,felix.haddad@company.com,fhaddad,CAD,75448.40,3964680006420921,DEUT6620,HSBC
+51605876-9f5f-4c1c-ab23-74ac66280b9e,James,Marie,Moreau,JMM,M,S,9169628626,james.moreau@company.com,jmoreau,AUD,46236.15,4286885341766633,SBIN2810,Deutsche Bank
+196153c6-e2ea-41d6-949b-10dea5f837b0,Arjun,Ann,Andersson,AAA,M,J,6266724491,arjun.andersson@company.com,aandersson,CHF,81092.59,6613576493960707,BNPA5446,Deutsche Bank
+56038d5f-7243-486b-b2e4-d643d19d85ff,Noor,Marie,Garcia,NMG,F,F,6553690635,noor.garcia@company-us.com,ngarcia,EUR,57940.07,0870779560028030,DEUT2250,ICICI Bank
+6d3aa40c-67ff-45c6-b7a0-ac3ab4ee25af,Luis,,Wang,LW,M,J,9173559398,luis.wang@company-eu.com,lwang,CAD,64048.43,3951246320046624,DEUT8214,State Bank of India
+c5529741-f30c-495d-bdf9-d88a2084bf00,Yusuf,Anne,Smith,YAS,M,J,6377027655,yusuf.smith@company-us.com,ysmith,CAD,53288.58,8199798652410678,HSBC3853,State Bank of India
+065e3560-c412-4074-a643-947d0f4ad0ff,Karthik,Rose,Sharma,KRS,M,D,9577653824,karthik.sharma@company.com,ksharma,INR,60980.95,2703758031146692,DEUT7653,State Bank of India
+77e6fe2d-c770-46c7-bac2-f8b42f01f9f1,Anna,Dev,Reddy,ADR,F,E,8518335381,anna.reddy@company-in.com,areddy,AUD,81564.01,6102810943547289,BNPA5627,ICICI Bank
+936770ae-92a6-4ce8-ae77-7d0e0a5ceb38,Ahmed,Kumar,Park,AKP,M,F,8291028027,ahmed.park@company.com,apark,INR,72656.04,7638818120222893,DEUT8367,Bank of America
+75718104-e486-4eae-8fb2-27e762d57648,Arjun,Marie,Mwangi,AMM,M,F,9444373242,arjun.mwangi@company-eu.com,amwangi1,AUD,61418.38,1669873933593402,CHAS9265,Chase Bank
+35d3f842-3594-4adc-8f82-8684c22fb060,Ananya,,Costa,AC,F,J,7188256724,ananya.costa@company-us.com,acosta,JPY,75612.66,1065671315200254,HSBC2806,BNP Paribas
+439fe065-b143-42c8-b9ae-b36e514f4ae0,Sanjay,Ann,Wang,SAW,M,F,6310403421,sanjay.wang@company-in.com,swang,AED,78487.14,9436546276951490,BNPA4357,ICICI Bank
+bb746d59-238e-438a-8211-b59f39735323,Camila,Raj,Bianchi,CRB,F,S,9886869721,camila.bianchi@company-us.com,cbianchi,CAD,98969.24,5746572103948544,ICIC8141,Bank of America
+f23a3682-e452-4eef-ad87-910cd2332db6,Anil,Anne,Rahman,AAR,M,S,6592630121,anil.rahman@company-in.com,arahman,SGD,56370.66,9516581709819642,ICIC4495,HDFC Bank
+993d919c-e2b0-4dd2-b0c7-4a9d61a42737,Luis,Jean,Costa,LJC,M,J,8228399231,luis.costa@company-in.com,lcosta,AED,59597.32,5968421443708124,ICIC3691,Barclays
+758e2acf-e4fe-4ca0-8fa2-4ebb483db036,Sven,,Martinez,SM,M,E,9584324398,sven.martinez@company-in.com,smartinez,EUR,70674.30,2208137794252740,BOFA9099,ICICI Bank
+ed35ddb3-9e62-4f77-9d2c-230abfacac25,Ingrid,Lee,Wang,ILW,F,D,6174670516,ingrid.wang@company-us.com,iwang,JPY,89955.54,8569258063053361,CHAS3334,Deutsche Bank
+4eb79e04-2645-4e66-99dd-08405bc8ecfb,Grace,,Wang,GW,F,J,8486946317,grace.wang@company-us.com,gwang,AUD,83281.76,6411847427049413,SBIN6760,HDFC Bank
+f465b058-18d6-461c-98df-c937148a8a5a,Yusuf,,Garcia,YG,M,J,9445247193,yusuf.garcia@company-eu.com,ygarcia,SGD,61590.50,2103584647929019,BOFA9951,Citibank
+c809cf21-61b4-4953-bd48-222daa796cdc,Mateo,Raj,Martinez,MRM,M,S,9156905884,mateo.martinez@company-us.com,mmartinez,INR,59385.03,9907847732458240,DEUT9603,Chase Bank
+b3a47a62-96fe-46e5-bdec-239a901ad2e4,Olivia,,Weber,OW,F,F,7251951557,olivia.weber@company-in.com,oweber,EUR,45937.18,1034745137652835,HSBC1918,State Bank of India
+b03fbf66-8d49-47df-9b36-0b4e15e40439,Ingrid,Kumar,Smith,IKS,F,D,8256403844,ingrid.smith@company-us.com,ismith,CAD,53872.30,3744188503138773,HDFC2940,Chase Bank
+5208c464-3473-46b4-937f-abd15f16a003,Felix,James,Patel,FJP,M,F,9121462328,felix.patel@company-eu.com,fpatel,EUR,85003.90,4304857677673650,CHAS7565,Deutsche Bank
+21fe2da7-651c-4d24-b0a3-89313c032fa5,Ravi,Dev,Brown,RDB,M,F,9904155448,ravi.brown@company-in.com,rbrown1,CHF,95704.13,4410911581781948,CHAS7356,Barclays
+c0b7de74-a97f-409a-9458-9f314e32e9d7,James,Raj,Dlamini,JRD,M,D,8430083771,james.dlamini@company.com,jdlamini,JPY,38002.27,3056430248097286,HDFC5648,Chase Bank
+51be0a80-e336-4908-b70a-7cb3f93e242a,Ahmed,Jean,Martinez,AJM,M,E,7665173043,ahmed.martinez@company.com,amartinez1,INR,40870.62,6701101233153402,BNPA7163,Bank of America
+155be7ca-6d93-439c-9761-25065b32722f,James,Lee,Andersson,JLA,M,S,6818086686,james.andersson@company-eu.com,jandersson,INR,91783.21,6898580646212146,BOFA9891,Chase Bank
+e6357728-94c3-455b-b83f-3c20dbc44f48,Michael,James,Berg,MJB,M,S,9384110289,michael.berg@company-in.com,mberg1,AUD,48901.62,5399420780391425,HSBC3464,BNP Paribas
+386294fc-e6ec-464f-b0f5-1337a5de0ae0,Sanjay,,Rossi,SR,M,D,6153886357,sanjay.rossi@company-eu.com,srossi,CAD,51722.41,1507222753397824,BOFA3246,State Bank of India
+e27f9738-9340-4363-8062-d38c3735c343,Ingrid,James,Mueller,IJM,F,J,9744981204,ingrid.mueller@company-us.com,imueller,JPY,50124.14,6413097656150547,CHAS1003,HDFC Bank
+8f9ea632-6e70-4058-9424-2071229df75e,Fatima,,Silva,FS,F,J,9298939927,fatima.silva@company.com,fsilva,AUD,65784.07,3429970926476016,BOFA3564,HSBC
+86b1d722-8ce1-4831-8657-785bf6ab88fd,Divya,Kumar,Johnson,DKJ,F,E,6277955178,divya.johnson@company-in.com,djohnson,EUR,90448.46,3491572170561500,SBIN3875,Chase Bank
+07e6555d-e92c-4b21-8f66-28333202b227,Ahmed,Rose,Hansen,ARH,M,S,9131849090,ahmed.hansen@company-in.com,ahansen,CHF,37214.19,8962520626628630,HDFC9757,Citibank
+3ba221b3-f245-4c5f-bd17-8db28c1a0e0f,Sam,Kumar,Lopez,SKL,U,J,9894774981,sam.lopez@company-eu.com,slopez,AUD,40038.26,3464350504836559,HSBC6723,Deutsche Bank
+f12bd1b4-c88e-40d2-bb37-7795ff3ca403,Marco,,Park,MP,M,E,9385991757,marco.park@company-us.com,mpark,AUD,75358.95,1448559039077968,HDFC8772,ICICI Bank
+f0df2582-90b8-418b-b5e8-9a96a1d0a661,Quinn,Michael,Liu,QML,U,E,7992172862,quinn.liu@company.com,qliu,INR,62547.36,2601031290580869,HDFC4433,BNP Paribas
+639e5fce-4c9b-4442-9c26-9deca5426efe,Anna,Dev,Lopez,ADL,F,D,6443084674,anna.lopez@company.com,alopez,GBP,48512.73,0382521086423377,SBIN5707,BNP Paribas
+3aacc05e-e94f-4507-ad6e-ae656eb59fe8,Carlos,,Patel,CP,M,D,7646034505,carlos.patel@company-us.com,cpatel,JPY,37152.14,7058612091838308,ICIC2150,Deutsche Bank
+fab42ae1-fca8-4a22-bf5a-59afa8a2d0b0,Hiroshi,Lee,Wang,HLW,M,S,9211667435,hiroshi.wang@company-us.com,hwang,INR,97577.75,7951071242926446,HDFC5441,HSBC
+58f9d674-f917-4017-98f7-f37a817271ef,Noor,Raj,Jensen,NRJ,F,D,9920296046,noor.jensen@company-eu.com,njensen,JPY,86094.34,3780760253008177,SBIN1749,ICICI Bank
+def1ef55-fe54-493a-923b-92171b950469,Ahmed,James,Jensen,AJJ,M,D,8672762113,ahmed.jensen@company-eu.com,ajensen,GBP,68588.34,4819358316832837,BNPA6298,Chase Bank
+08a5c457-fe17-4833-ba3b-20cb52acdab2,Sanjay,Michael,Smith,SMS,M,J,9102024610,sanjay.smith@company-in.com,ssmith,SGD,66255.07,7298197987429341,HSBC1618,Deutsche Bank
+b3ff909e-6e5d-4f26-85c8-e0f995275427,John,Lee,Mueller,JLM,M,E,9245723750,john.mueller@company.com,jmueller,AED,43165.08,8572430942403812,ICIC9219,BNP Paribas
+6a25c3d3-7d9b-4a42-88e9-9ffe47d1997c,Anil,Ann,Berg,AAB,M,J,7565950911,anil.berg@company-us.com,aberg,USD,59063.58,7739705676832417,SBIN7224,Citibank
+e0682630-a495-4c94-bcb8-50d5cb752c90,Emily,Jean,Santos,EJS,F,E,9671339452,emily.santos@company-in.com,esantos,CAD,85356.60,2586657436305047,HDFC6654,Citibank
+31d1d390-122c-40ac-8827-884ed3686c9a,Hana,Raj,Choi,HRC,F,J,8613917574,hana.choi@company-us.com,hchoi,GBP,47304.75,6149295049818085,CHAS7261,ICICI Bank
+3ba28798-9197-4578-bbe1-556fdc47f4be,Amara,Kumar,Brown,AKB,F,F,6415305233,amara.brown@company-in.com,abrown,INR,71522.42,4816422969409150,CHAS3029,BNP Paribas
+caf3b62b-1fdf-4365-b500-1035f4456ecd,Laura,Michael,Weber,LMW,F,S,9101802791,laura.weber@company.com,lweber,CAD,69668.81,6146298707123879,ICIC2904,BNP Paribas
+3fd4a949-a947-4a98-b665-0f1511972a5e,Sven,,Rossi,SR,M,J,8882901482,sven.rossi@company-in.com,srossi1,GBP,87567.85,4892454888256598,SBIN9861,State Bank of India
+46c2548c-a952-47a2-b5f2-491e9ba04ed0,Fatima,,Moreau,FM,F,E,8879321337,fatima.moreau@company-in.com,fmoreau,EUR,46223.33,6932281090047912,HDFC7576,Barclays
+aa8ce01f-1ff1-48bd-8908-387d23bd5b0b,Sven,,Choi,SC,M,S,8584738463,sven.choi@company-in.com,schoi,INR,94261.79,6845087601345540,HDFC3915,Chase Bank
+fc0aa984-5f07-48f9-baa3-404d088072ed,Daniel,Rose,Liu,DRL,M,S,8726822684,daniel.liu@company-us.com,dliu,AED,95031.49,0066358992856534,SBIN5508,HDFC Bank
+6be67abb-d931-4162-8aba-e5f8566a62a6,Chen,,Suzuki,CS,F,J,9993616647,chen.suzuki@company.com,csuzuki,EUR,46455.16,1133468718596129,ICIC3158,HDFC Bank
+fdf66964-c0a3-4ee8-a0a1-8eb1843df941,Felix,Kumar,Moreau,FKM,M,J,9334125887,felix.moreau@company-in.com,fmoreau1,EUR,63924.66,2938509922205457,SBIN7759,BNP Paribas
+0e4c5429-9002-492d-a51f-b9cfc1001c25,John,Raj,Bianchi,JRB,M,S,9647681270,john.bianchi@company.com,jbianchi,AED,70528.83,9881348476302221,ICIC4625,Citibank
+c86024fb-854e-42c5-8df2-824ab6b7ec78,Elena,Dev,Fischer,EDF,F,S,9388357101,elena.fischer@company-in.com,efischer,CAD,82179.48,9591106882673785,CHAS1373,State Bank of India
+ad8c20f6-497c-497d-9102-92b59ff6aee4,Yusuf,Anne,Haddad,YAH,M,F,9228341798,yusuf.haddad@company-eu.com,yhaddad,AED,36836.30,2451883426023673,BOFA7176,State Bank of India
+5042e378-f2cb-42d0-b21e-539e6c424726,Sanjay,Kumar,Patel,SKP,M,D,7393857922,sanjay.patel@company-in.com,spatel,CAD,58673.85,0588163144265308,ICIC5577,HSBC
+2f290329-ec94-4230-b354-7284d289fbc4,Jordan,Ann,Novak,JAN,U,S,7509845876,jordan.novak@company-us.com,jnovak,CAD,41317.48,8028071157051625,HSBC4241,HDFC Bank
+5b5bd42b-054c-46d7-9c0e-1c71052432a4,Oliver,Dev,Iyer,ODI,M,J,6597529986,oliver.iyer@company.com,oiyer,AUD,71852.37,5271581948517784,HSBC6114,Barclays
+c0f27ccf-2e63-47b6-ad18-fb85a03d599a,Wei,Marie,Lopez,WML,M,E,9944624455,wei.lopez@company-in.com,wlopez,AUD,37420.90,1966604132481076,ICIC4920,HDFC Bank
+1fb3d9ca-3d08-4fc1-8b93-fc8f2d88ae26,Camila,Dev,Patel,CDP,F,J,7449323633,camila.patel@company.com,cpatel1,SGD,85097.17,3326967455418666,CHAS2320,HSBC
+a1a9cfb0-7118-461e-b005-8d9d10783d65,Quinn,Anne,Novak,QAN,U,J,8322377391,quinn.novak@company-us.com,qnovak,SGD,94445.53,3345755348713979,BOFA3759,Citibank
+5894e03f-0f72-4113-bdbc-6ce296b6b0f0,Ananya,Michael,Smith,AMS,F,J,6999775853,ananya.smith@company.com,asmith,AUD,64945.71,9145382608079983,ICIC2131,ICICI Bank
+c6bc8a43-73e5-4fe8-b558-11d71e2d5866,James,Jean,Yamamoto,JJY,M,D,7912489731,james.yamamoto@company-us.com,jyamamoto,AED,77144.75,6524252398869369,HSBC6941,HDFC Bank
+d647adf6-2bc0-4158-8da0-f4cd037cf4f1,Sam,,Haddad,SH,U,J,6585279005,sam.haddad@company-us.com,shaddad,SGD,98392.81,5195304360028610,CHAS2182,Deutsche Bank
+559d3131-7340-468c-ab8e-96a5b9f54fb1,Carlos,Raj,Tran,CRT,M,S,9468615655,carlos.tran@company-us.com,ctran1,CHF,93996.67,8312067258479610,HSBC5626,Barclays
+37323bdc-f583-411b-8f85-fd87f44ae8ae,Meera,,Reddy,MR,F,S,6338475624,meera.reddy@company-in.com,mreddy,GBP,67477.06,5409365607453906,HSBC6906,Barclays
+a6c363d5-9927-40ed-850b-9bae4ec64c67,Sam,Lee,Andersson,SLA,U,S,9322731025,sam.andersson@company-in.com,sandersson,GBP,41886.65,1564375375109423,ICIC1222,HSBC
+d6425041-1ea5-48f7-8fb8-0b7620e49b4a,Ananya,James,Rahman,AJR,F,D,8315555902,ananya.rahman@company-eu.com,arahman1,CHF,75028.27,1098110580481203,DEUT9370,HSBC
+babf7c4f-11ad-47f3-9d80-fe76ccb468a3,John,Jean,Berg,JJB,M,S,9390600857,john.berg@company.com,jberg,JPY,83681.12,9546209750767570,DEUT6033,BNP Paribas
+1445ed6b-85b2-44c2-969e-59e19cb06ef5,Sam,Jean,OBrien,SJO,U,F,8455029630,sam.obrien@company-in.com,sobrien,EUR,57802.05,1366725970916267,CHAS9358,Deutsche Bank
+0bd79a09-968a-4481-97e1-459b248806c9,Sofia,Ann,Silva,SAS,F,S,7405459671,sofia.silva@company-in.com,ssilva,CAD,89328.18,4763139680231762,HDFC9247,BNP Paribas
+7d83c4a1-1981-4093-ab4f-2fabff03d65d,Anil,Raj,Berg,ARB,M,D,7962474990,anil.berg@company-in.com,aberg1,GBP,40830.03,4034746732717898,BNPA1353,Chase Bank
+055d970e-26d2-4577-b1d1-72fa98e34a30,Lena,Lee,Choi,LLC,F,S,6174031439,lena.choi@company-us.com,lchoi1,INR,47103.83,1026031120061605,BNPA8714,State Bank of India
+d99c9922-7874-40c5-b4cd-5acd91d32a5f,Fatima,Anne,Reddy,FAR,F,D,9161574993,fatima.reddy@company-us.com,freddy,JPY,90553.58,7391659593156604,BNPA7941,BNP Paribas
+75640285-dd60-4af1-aceb-d482bf930204,Sanjay,Marie,OBrien,SMO,M,S,8107874553,sanjay.obrien@company-eu.com,sobrien1,JPY,96838.95,1526417883822289,CHAS8567,Citibank
+0ee874eb-1321-4ef1-9eda-b9a9949de23d,Clara,James,Kim,CJK,F,F,7218237219,clara.kim@company-us.com,ckim,EUR,90092.63,5639707554399001,CHAS8443,HDFC Bank
+dbe43903-f7ae-4d46-aa56-c332535d61b8,Sven,Ann,Wang,SAW,M,D,7761375969,sven.wang@company-us.com,swang1,AED,68036.56,3603036918464022,ICIC2172,State Bank of India
+23252470-4f66-4c81-9d59-f8e244877179,Amara,Ann,Suzuki,AAS,F,J,6336362215,amara.suzuki@company-eu.com,asuzuki,GBP,96147.43,2453018707117984,BNPA5650,Chase Bank
+d6153a98-e8f0-4e5f-9cb1-bed9d400c16f,Yuki,Raj,Novak,YRN,F,J,8314892901,yuki.novak@company.com,ynovak,USD,39983.18,5449682758893279,CHAS9638,ICICI Bank
+a89681d6-e58f-4433-acf1-d90ba0da9dc7,Priya,Raj,Yamamoto,PRY,F,J,7516836592,priya.yamamoto@company.com,pyamamoto,JPY,54815.25,6444531102800561,ICIC7533,HDFC Bank
+49e17ed4-befb-41fe-8664-fed1452b6060,Peter,,Novak,PN,M,F,6753796915,peter.novak@company-us.com,pnovak,CAD,37648.40,3008437485291266,HDFC1654,Citibank
+a3f24d0a-7fdd-4ed6-8881-093ad96661f2,Maria,Lee,Haddad,MLH,F,D,6845872250,maria.haddad@company.com,mhaddad,GBP,76703.52,2119637364021314,BNPA1555,Chase Bank
+466b3b4c-75a6-4a5d-8c18-c8a07d58e496,Yuki,Michael,Park,YMP,F,D,6824163823,yuki.park@company.com,ypark,AED,87447.39,4314591877350032,BOFA6232,ICICI Bank
+15c8c9f3-6486-4171-99e5-f22ff1efb3b0,Maria,Dev,Rahman,MDR,F,D,8766396476,maria.rahman@company-eu.com,mrahman,CAD,43482.95,7384295839683147,DEUT8837,BNP Paribas
+1ed76a4a-86a1-4304-a205-6e1dff8c7d2c,Ravi,Ann,Berg,RAB,M,D,6576874411,ravi.berg@company-eu.com,rberg,CAD,76657.50,1652938739193373,HSBC1872,Barclays
+1d782677-bd69-4e2a-948d-468c8c4e395d,Priya,,Suzuki,PS,F,E,7796661870,priya.suzuki@company.com,psuzuki,CAD,92853.69,1454958976182785,DEUT9821,Chase Bank
+4ab56859-1fd3-48c9-90a6-d05d91f0a9cc,Anil,Ann,Brown,AAB,M,J,6733006494,anil.brown@company.com,abrown1,JPY,90488.53,5639703120546462,BNPA8491,Deutsche Bank
+fd3907cf-cfbd-4d29-b429-d22ef25b42c3,Marco,Marie,Berg,MMB,M,F,8470490109,marco.berg@company-us.com,mberg2,INR,52472.08,9969513465797436,BNPA9172,Citibank
+78fc81a2-1b2c-4312-b8c2-be326fd92f57,James,Michael,Garcia,JMG,M,J,9454046819,james.garcia@company-eu.com,jgarcia,INR,89717.10,3707752868674154,SBIN6074,Chase Bank
+d55b396e-e198-437b-bd00-b480ca99d176,Priya,,Kowalski,PK,F,E,6915399659,priya.kowalski@company-eu.com,pkowalski,EUR,54878.41,6611490994610546,BNPA4428,Deutsche Bank
+060a4632-7961-475b-aabe-3b43fe784cbd,Laura,Michael,Dubois,LMD,F,E,8711588214,laura.dubois@company-in.com,ldubois,GBP,42121.30,1699151055136364,ICIC9252,State Bank of India
+f827edfa-4a8c-4cb1-afdc-3f101b67ae7e,Laura,,Liu,LL,F,F,8897388388,laura.liu@company-eu.com,lliu,AED,64736.68,0131988897369490,BNPA9440,Deutsche Bank
+d8cd615e-573a-4c5d-bc5c-91a012b2433f,Thomas,Marie,Patel,TMP,M,S,6478952213,thomas.patel@company.com,tpatel,EUR,92379.57,7821058929203861,SBIN1983,Deutsche Bank
+8909c23a-0c76-4357-9930-e81a00810fe5,Luis,,Johnson,LJ,M,E,7954428318,luis.johnson@company.com,ljohnson,JPY,44339.30,4683492077375185,BOFA9373,HSBC
+b61d1334-c718-439e-a5b1-d1de169824d8,Yusuf,Kumar,Zhang,YKZ,M,F,9230060539,yusuf.zhang@company-us.com,yzhang,CAD,38913.89,5631835767694843,HDFC2530,BNP Paribas

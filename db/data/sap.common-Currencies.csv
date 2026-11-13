@@ -1,0 +1,33 @@
+code,symbol,minorUnit,name,descr
+AED,د.إ,2,UAE Dirham,United Arab Emirates Dirham
+AUD,A$,2,Australian Dollar,Australian Dollar
+BRL,R$,2,Brazilian Real,Brazilian Real
+CAD,C$,2,Canadian Dollar,Canadian Dollar
+CHF,CHF,2,Swiss Franc,Swiss Franc
+CLP,CLP$,0,Chilean Peso,Chilean Peso
+CNY,¥,2,Yuan Renminbi,Chinese Yuan Renminbi
+CZK,Kč,2,Czech Koruna,Czech Koruna
+DKK,kr,2,Danish Krone,Danish Krone
+EGP,E£,2,Egyptian Pound,Egyptian Pound
+EUR,€,2,Euro,European Euro
+GBP,£,2,Pound Sterling,British Pound Sterling
+HKD,HK$,2,Hong Kong Dollar,Hong Kong Dollar
+IDR,Rp,2,Rupiah,Indonesian Rupiah
+ILS,₪,2,New Israeli Sheqel,New Israeli Sheqel
+INR,₹,2,Indian Rupee,Indian Rupee
+JPY,¥,0,Yen,Japanese Yen
+KES,KSh,2,Kenyan Shilling,Kenyan Shilling
+KRW,₩,0,Won,South Korean Won
+MXN,Mex$,2,Mexican Peso,Mexican Peso
+MYR,RM,2,Malaysian Ringgit,Malaysian Ringgit
+NGN,₦,2,Naira,Nigerian Naira
+NOK,kr,2,Norwegian Krone,Norwegian Krone
+NZD,NZ$,2,New Zealand Dollar,New Zealand Dollar
+PLN,zł,2,Zloty,Polish Zloty
+SAR,﷼,2,Saudi Riyal,Saudi Riyal
+SEK,kr,2,Swedish Krona,Swedish Krona
+SGD,S$,2,Singapore Dollar,Singapore Dollar
+THB,฿,2,Baht,Thai Baht
+TRY,₺,2,Turkish Lira,Turkish Lira
+USD,$,2,US Dollar,United States Dollar
+ZAR,R,2,Rand,South African Rand

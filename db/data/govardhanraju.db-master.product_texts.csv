@@ -1,0 +1,241 @@
+NODE_KEY,locale,DESCRIPTION
+PROD00001,en,Ultrabook Model 01
+PROD00001,de,Ultrabook Modell 01
+PROD00002,en,Wireless Mouse Model 01
+PROD00002,de,Kabellose Maus Modell 01
+PROD00003,en,Mechanical Keyboard Model 01
+PROD00003,de,Mechanical Tastatur Modell 01
+PROD00004,en,24-inch LED Monitor Model 01
+PROD00004,de,24-inch LED Monitor Modell 01
+PROD00005,en,Laser Printer Model 01
+PROD00005,de,Laser Drucker Modell 01
+PROD00006,en,Bluetooth Headset Model 01
+PROD00006,de,Bluetooth Headset Modell 01
+PROD00007,en,Portable SSD Model 01
+PROD00007,de,Portable SSD Modell 01
+PROD00008,en,Wi-Fi 6 Router Model 01
+PROD00008,de,Wi-Fi 6 Router Modell 01
+PROD00009,en,Ergonomic Office Chair Model 01
+PROD00009,de,Ergonomic Office Stuhl Modell 01
+PROD00010,en,Laptop Sleeve Model 01
+PROD00010,de,Laptop Sleeve Modell 01
+PROD00011,en,Office Suite License Model 01
+PROD00011,de,Office Suite Lizenz Modell 01
+PROD00012,en,On-site Installation Model 01
+PROD00012,de,On-site Installation Modell 01
+PROD00013,en,Business Laptop Model 02
+PROD00013,de,Business Laptop Modell 02
+PROD00014,en,Ergonomic Mouse Model 02
+PROD00014,de,Ergonomic Maus Modell 02
+PROD00015,en,Wireless Keyboard Model 02
+PROD00015,de,Kabellose Tastatur Modell 02
+PROD00016,en,27-inch QHD Monitor Model 02
+PROD00016,de,27-inch QHD Monitor Modell 02
+PROD00017,en,Inkjet Printer Model 02
+PROD00017,de,Inkjet Drucker Modell 02
+PROD00018,en,Noise Cancelling Headset Model 02
+PROD00018,de,Noise Cancelling Headset Modell 02
+PROD00019,en,External HDD Model 02
+PROD00019,de,External HDD Modell 02
+PROD00020,en,Gigabit Switch Model 02
+PROD00020,de,Gigabit Switch Modell 02
+PROD00021,en,Standing Desk Model 02
+PROD00021,de,Standing Schreibtisch Modell 02
+PROD00022,en,Cable Organizer Model 02
+PROD00022,de,Cable Organizer Modell 02
+PROD00023,en,Antivirus Subscription Model 02
+PROD00023,de,Antivirus Subscription Modell 02
+PROD00024,en,Extended Warranty Model 02
+PROD00024,de,Extended Warranty Modell 02
+PROD00025,en,Gaming Notebook Model 03
+PROD00025,de,Gaming Notebook Modell 03
+PROD00026,en,Gaming Mouse Model 03
+PROD00026,de,Gaming Maus Modell 03
+PROD00027,en,Ergonomic Keyboard Model 03
+PROD00027,de,Ergonomic Tastatur Modell 03
+PROD00028,en,32-inch 4K Monitor Model 03
+PROD00028,de,32-inch 4K Monitor Modell 03
+PROD00029,en,All-in-One Printer Model 03
+PROD00029,de,All-in-One Drucker Modell 03
+PROD00030,en,USB Office Headset Model 03
+PROD00030,de,USB Office Headset Modell 03
+PROD00031,en,NAS Enclosure Model 03
+PROD00031,de,NAS Enclosure Modell 03
+PROD00032,en,Range Extender Model 03
+PROD00032,de,Range Extender Modell 03
+PROD00033,en,Desk Converter Model 03
+PROD00033,de,Schreibtisch Converter Modell 03
+PROD00034,en,Webcam Cover Model 03
+PROD00034,de,Webcam Cover Modell 03
+PROD00035,en,Backup Software Model 03
+PROD00035,de,Backup Software Modell 03
+PROD00036,en,Priority Support Plan Model 03
+PROD00036,de,Priority Support Plan Modell 03
+PROD00037,en,Convertible Laptop Model 04
+PROD00037,de,Convertible Laptop Modell 04
+PROD00038,en,Travel Mouse Model 04
+PROD00038,de,Travel Maus Modell 04
+PROD00039,en,Compact Keyboard Model 04
+PROD00039,de,Compact Tastatur Modell 04
+PROD00040,en,Curved Ultrawide Monitor Model 04
+PROD00040,de,Curved Ultrawide Monitor Modell 04
+PROD00041,en,Label Printer Model 04
+PROD00041,de,Label Drucker Modell 04
+PROD00042,en,Gaming Headset Model 04
+PROD00042,de,Gaming Headset Modell 04
+PROD00043,en,USB Flash Drive Model 04
+PROD00043,de,USB Flash Drive Modell 04
+PROD00044,en,USB-C Dock Model 04
+PROD00044,de,USB-C Dock Modell 04
+PROD00045,en,Monitor Arm Model 04
+PROD00045,de,Monitor Arm Modell 04
+PROD00046,en,Laptop Stand Model 04
+PROD00046,de,Laptop Stand Modell 04
+PROD00047,en,Design Suite License Model 04
+PROD00047,de,Design Suite Lizenz Modell 04
+PROD00048,en,Data Migration Service Model 04
+PROD00048,de,Data Migration Service Modell 04
+PROD00049,en,Workstation Laptop Model 05
+PROD00049,de,Workstation Laptop Modell 05
+PROD00050,en,Trackball Mouse Model 05
+PROD00050,de,Trackball Maus Modell 05
+PROD00051,en,Backlit Keyboard Model 05
+PROD00051,de,Backlit Tastatur Modell 05
+PROD00052,en,Portable Monitor Model 05
+PROD00052,de,Portable Monitor Modell 05
+PROD00053,en,Photo Printer Model 05
+PROD00053,de,Photo Drucker Modell 05
+PROD00054,en,Conference Speakerphone Model 05
+PROD00054,de,Conference Speakerphone Modell 05
+PROD00055,en,Memory Card Model 05
+PROD00055,de,Memory Card Modell 05
+PROD00056,en,Network Adapter Model 05
+PROD00056,de,Network Adapter Modell 05
+PROD00057,en,Filing Cabinet Model 05
+PROD00057,de,Filing Cabinet Modell 05
+PROD00058,en,Screen Cleaning Kit Model 05
+PROD00058,de,Screen Cleaning Kit Modell 05
+PROD00059,en,Developer Toolkit Model 05
+PROD00059,de,Developer Toolkit Modell 05
+PROD00060,en,Training Workshop Model 05
+PROD00060,de,Training Workshop Modell 05
+PROD00061,en,Ultrabook Model 06
+PROD00061,de,Ultrabook Modell 06
+PROD00062,en,Wireless Mouse Model 06
+PROD00062,de,Kabellose Maus Modell 06
+PROD00063,en,Mechanical Keyboard Model 06
+PROD00063,de,Mechanical Tastatur Modell 06
+PROD00064,en,24-inch LED Monitor Model 06
+PROD00064,de,24-inch LED Monitor Modell 06
+PROD00065,en,Laser Printer Model 06
+PROD00065,de,Laser Drucker Modell 06
+PROD00066,en,Bluetooth Headset Model 06
+PROD00066,de,Bluetooth Headset Modell 06
+PROD00067,en,Portable SSD Model 06
+PROD00067,de,Portable SSD Modell 06
+PROD00068,en,Wi-Fi 6 Router Model 06
+PROD00068,de,Wi-Fi 6 Router Modell 06
+PROD00069,en,Ergonomic Office Chair Model 06
+PROD00069,de,Ergonomic Office Stuhl Modell 06
+PROD00070,en,Laptop Sleeve Model 06
+PROD00070,de,Laptop Sleeve Modell 06
+PROD00071,en,Office Suite License Model 06
+PROD00071,de,Office Suite Lizenz Modell 06
+PROD00072,en,On-site Installation Model 06
+PROD00072,de,On-site Installation Modell 06
+PROD00073,en,Business Laptop Model 07
+PROD00073,de,Business Laptop Modell 07
+PROD00074,en,Ergonomic Mouse Model 07
+PROD00074,de,Ergonomic Maus Modell 07
+PROD00075,en,Wireless Keyboard Model 07
+PROD00075,de,Kabellose Tastatur Modell 07
+PROD00076,en,27-inch QHD Monitor Model 07
+PROD00076,de,27-inch QHD Monitor Modell 07
+PROD00077,en,Inkjet Printer Model 07
+PROD00077,de,Inkjet Drucker Modell 07
+PROD00078,en,Noise Cancelling Headset Model 07
+PROD00078,de,Noise Cancelling Headset Modell 07
+PROD00079,en,External HDD Model 07
+PROD00079,de,External HDD Modell 07
+PROD00080,en,Gigabit Switch Model 07
+PROD00080,de,Gigabit Switch Modell 07
+PROD00081,en,Standing Desk Model 07
+PROD00081,de,Standing Schreibtisch Modell 07
+PROD00082,en,Cable Organizer Model 07
+PROD00082,de,Cable Organizer Modell 07
+PROD00083,en,Antivirus Subscription Model 07
+PROD00083,de,Antivirus Subscription Modell 07
+PROD00084,en,Extended Warranty Model 07
+PROD00084,de,Extended Warranty Modell 07
+PROD00085,en,Gaming Notebook Model 08
+PROD00085,de,Gaming Notebook Modell 08
+PROD00086,en,Gaming Mouse Model 08
+PROD00086,de,Gaming Maus Modell 08
+PROD00087,en,Ergonomic Keyboard Model 08
+PROD00087,de,Ergonomic Tastatur Modell 08
+PROD00088,en,32-inch 4K Monitor Model 08
+PROD00088,de,32-inch 4K Monitor Modell 08
+PROD00089,en,All-in-One Printer Model 08
+PROD00089,de,All-in-One Drucker Modell 08
+PROD00090,en,USB Office Headset Model 08
+PROD00090,de,USB Office Headset Modell 08
+PROD00091,en,NAS Enclosure Model 08
+PROD00091,de,NAS Enclosure Modell 08
+PROD00092,en,Range Extender Model 08
+PROD00092,de,Range Extender Modell 08
+PROD00093,en,Desk Converter Model 08
+PROD00093,de,Schreibtisch Converter Modell 08
+PROD00094,en,Webcam Cover Model 08
+PROD00094,de,Webcam Cover Modell 08
+PROD00095,en,Backup Software Model 08
+PROD00095,de,Backup Software Modell 08
+PROD00096,en,Priority Support Plan Model 08
+PROD00096,de,Priority Support Plan Modell 08
+PROD00097,en,Convertible Laptop Model 09
+PROD00097,de,Convertible Laptop Modell 09
+PROD00098,en,Travel Mouse Model 09
+PROD00098,de,Travel Maus Modell 09
+PROD00099,en,Compact Keyboard Model 09
+PROD00099,de,Compact Tastatur Modell 09
+PROD00100,en,Curved Ultrawide Monitor Model 09
+PROD00100,de,Curved Ultrawide Monitor Modell 09
+PROD00101,en,Label Printer Model 09
+PROD00101,de,Label Drucker Modell 09
+PROD00102,en,Gaming Headset Model 09
+PROD00102,de,Gaming Headset Modell 09
+PROD00103,en,USB Flash Drive Model 09
+PROD00103,de,USB Flash Drive Modell 09
+PROD00104,en,USB-C Dock Model 09
+PROD00104,de,USB-C Dock Modell 09
+PROD00105,en,Monitor Arm Model 09
+PROD00105,de,Monitor Arm Modell 09
+PROD00106,en,Laptop Stand Model 09
+PROD00106,de,Laptop Stand Modell 09
+PROD00107,en,Design Suite License Model 09
+PROD00107,de,Design Suite Lizenz Modell 09
+PROD00108,en,Data Migration Service Model 09
+PROD00108,de,Data Migration Service Modell 09
+PROD00109,en,Workstation Laptop Model 10
+PROD00109,de,Workstation Laptop Modell 10
+PROD00110,en,Trackball Mouse Model 10
+PROD00110,de,Trackball Maus Modell 10
+PROD00111,en,Backlit Keyboard Model 10
+PROD00111,de,Backlit Tastatur Modell 10
+PROD00112,en,Portable Monitor Model 10
+PROD00112,de,Portable Monitor Modell 10
+PROD00113,en,Photo Printer Model 10
+PROD00113,de,Photo Drucker Modell 10
+PROD00114,en,Conference Speakerphone Model 10
+PROD00114,de,Conference Speakerphone Modell 10
+PROD00115,en,Memory Card Model 10
+PROD00115,de,Memory Card Modell 10
+PROD00116,en,Network Adapter Model 10
+PROD00116,de,Network Adapter Modell 10
+PROD00117,en,Filing Cabinet Model 10
+PROD00117,de,Filing Cabinet Modell 10
+PROD00118,en,Screen Cleaning Kit Model 10
+PROD00118,de,Screen Cleaning Kit Modell 10
+PROD00119,en,Developer Toolkit Model 10
+PROD00119,de,Developer Toolkit Modell 10
+PROD00120,en,Training Workshop Model 10
+PROD00120,de,Training Workshop Modell 10

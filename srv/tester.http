@@ -1,0 +1,134 @@
+### consuming the service document describe what are the entities part of service
+http://localhost:4004/odata/v4/CatalogService
+
+### metadata document of the odata service
+http://localhost:4004/odata/v4/CatalogService/$metadata
+
+### read my all employee data
+http://localhost:4004/odata/v4/CatalogService/EmployeeSet
+Authorization: Basic govardhan:raju
+
+### read only the revelent fields from all employee  using(SELECT)
+http://localhost:4004/odata/v4/CatalogService/EmployeeSet?$select=nameFirst,loginName,salaryAmount
+
+### get the total count of employee record using(COUNT)
+http://localhost:4004/odata/v4/CatalogService/EmployeeSet/$count
+
+### pagination load data chunk by chunk for performance  using(TOP,SKIP)
+http://localhost:4004/odata/v4/CatalogService/EmployeeSet?$top=2&$skip=2
+
+### load a single employee by key
+http://localhost:4004/odata/v4/CatalogService/EmployeeSet/055d970e-26d2-4577-b1d1-72fa98e34a30
+
+### how to filter the data based on condition using(FILTER)
+http://localhost:4004/odata/v4/CatalogService/EmployeeSet?$filter=bankName eq 'State Bank of India'
+
+### can we filter data based on pattern match
+http://localhost:4004/odata/v4/CatalogService/EmployeeSet?$filter=contains(nameFirst,'G')
+
+### sorting the data using(orderby)
+http://localhost:4004/odata/v4/CatalogService/EmployeeSet?$orderby=salaryAmount desc
+
+### load all purchaseorder data
+http://localhost:4004/odata/v4/CatalogService/PurchaseOrderSet
+
+### get single purchaser order data
+http://localhost:4004/odata/v4/CatalogService/PurchaseOrderSet/PO00007
+
+### get items data for particular order
+http://localhost:4004/odata/v4/CatalogService/PurchaseOrderSet/PO00007/Items
+
+### load order herader  of single order + its all items together  using (EXAPND)
+http://localhost:4004/odata/v4/CatalogService/PurchaseOrderSet/PO00007?$expand=Items
+
+### using CDS views we do lazy loading
+http://localhost:4004/odata/v4/CDSService/ProductSet/PROD00001?$expand=To_Items
+
+### create operation to insert data into database 
+POST http://localhost:4004/odata/v4/CatalogService/EmployeeSet
+Content-Type: application/json
+Authorization: Basic raju:govardhan
+
+{
+  "nameFirst": "Vengalaraju",
+  "nameMiddle": "Govardhana",
+  "nameLast": "Raju",
+  "nameIntials": "V",
+  "sex": "M",
+  "language": "E",
+  "phoneNumber": "6174031439",
+  "email": "gova.raju@company-us.com",
+  "loginName": "gova1",
+  "Currency_code": "USD",
+  "salaryAmount": "1000000",
+  "accountNumber": "1026031120061605",
+  "bankId": "BNPA8714",
+  "bankName": "State Bank of India"
+}
+
+### change (updatacall) copy the id created in last call
+
+PATCH http://localhost:4004/odata/v4/CatalogService/EmployeeSet/cb28bbfa-ed4f-46ff-a93a-db4bfcebd59d
+Content-Type: application/json
+
+{
+   "salaryAmount": "1999999" 
+}
+
+### delete the data from db
+DELETE http://localhost:4004/odata/v4/CatalogService/EmployeeSet/cb28bbfa-ed4f-46ff-a93a-db4bfcebd59d
+
+### testing deepinsert  pass batch of data toger header&item
+POST http://localhost:4004/odata/v4/CatalogService/PurchaseOrderSet
+Content-Type: application/json
+
+{
+  "CURRENCY_code": "GBP",
+  "GROSS_AMOUNT": "64741.60",
+  "NET_AMOUNT": "54404.70",
+  "TAX_AMOUNT": "10336.90",
+  "NODE_KEY": "PO0000888",
+  "PO_ID": "PO-2026-00777",
+  "PARTNER_GUID_NODE_KEY": "BP00087",
+  "LIFECYCLE_STATUS": "A",
+  "OVERALL_STATUS": "A",
+  "NOTE": "example for deep insert",
+  "Items": [
+    {
+      "CURRENCY_code": "GBP",
+      "GROSS_AMOUNT": "2923.26",
+      "NET_AMOUNT": "2456.52",
+      "TAX_AMOUNT": "466.74",
+      "NODE_KEY": "ITEM0001229",
+      "PO_ITEM_POS": 10,
+      "PRODUCT_GUID_NODE_KEY": "PROD00095"
+    },
+    {
+      "CURRENCY_code": "GBP",
+      "GROSS_AMOUNT": "24717.49",
+      "NET_AMOUNT": "20771.00",
+      "TAX_AMOUNT": "3946.49",
+      "NODE_KEY": "ITEM00001330",
+      "PO_ITEM_POS": 20,
+      "PRODUCT_GUID_NODE_KEY": "PROD00074"
+    }
+  ]
+}
+
+### testing the function to load toporder
+http://localhost:4004/odata/v4/CatalogService/toporder()
+
+### reading my order data
+http://localhost:4004/odata/v4/CatalogService/PurchaseOrderSet/PO00007
+
+### testing the boost action using POST req
+POST http://localhost:4004/odata/v4/CatalogService/PurchaseOrderSet/PO00007/boost
+Content-Type: application/json
+
+
+
+
+
+
+
+
