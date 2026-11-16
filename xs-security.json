@@ -42,7 +42,7 @@
  "authorities":["$ACCEPT_GRANTED_AUTHORITIES"],
  "oauth2-configuration": {
                     "token-validity": 9000, 
-                    "redirect-uris": ["https://*.cf.us10-001.hana.ondemand.com" ], 
+                    "redirect-uris": ["https://*.cfapps.us10-001.hana.ondemand.com/login/callback"],
                     "credential-types": ["binding-secret","x509"]
  },
  "xsenableasyncservice":"true"

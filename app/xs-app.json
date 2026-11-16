@@ -1,30 +1,28 @@
 {
-  "welcomeFile": "managepo/webappindex.html",
+  "welcomeFile": "/managepo/webapp/index.html",
   "authenticationMethod": "route",
   "sessionTimeout": 10,
-  "pluginMetadataEndpoint": "odata/v4/CatalogService/$metadata",
-  "routes": [				
+  "routes": [
     {
-      "source": "^/managepo/webapp/(.*)",
-	  "localDir" : "managepo/webapp/",
-      "target" : "$1",
-	  "authenticationType": "xsuaa",
-	  "csrfProtection": true
+      "source": "^/managepo/webapp/(.*)$",
+      "localDir": "managepo/webapp/",
+      "target": "$1",
+      "authenticationType": "xsuaa",
+      "csrfProtection": true
     },
-     {
-       "source": "^/user-api/currentUser$",
-       "target": "/currentUser",
-       "service": "sap-approuter-userapi"
-     },
+    {
+      "source": "^/user-api/currentUser$",
+      "target": "/currentUser",
+      "service": "sap-approuter-userapi"
+    },
     {
       "source": "^/(.*)$",
       "authenticationType": "xsuaa",
-      "destination" : "srv-api"
-     }
-    
+      "destination": "srv-api"
+    }
   ],
   "logout": {
-     "logoutEndpoint": "/logout",
-     "logoutPage": "/logout-page.html"
-  } 
+    "logoutEndpoint": "/logout",
+    "logoutPage": "/logout-page.html"
+  }
 }
